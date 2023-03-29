@@ -6,7 +6,7 @@
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
-    background-color: #f1f1f1;
+    background-color: aqua;
 }
 
 
@@ -17,7 +17,7 @@ tr{
     margin: 10px;
     border: 1px solid #000000;
     border-radius: 5px;
-    background-color: #ffc0cb;
+    background-color: #e3f2fd;
 }
 
 th{
@@ -27,7 +27,7 @@ th{
     margin: 10px;
     border: 1px solid #000000;
     border-radius: 5px;
-    background-color: #ffc0cb;
+    background-color: #e3f2fd;
 }
 
 
@@ -38,5 +38,5 @@ td{
     margin: 10px;
     border: 1px solid #000000;
     border-radius: 5px;
-    background-color: #ffc0cb;
+    background-color: #e3f2fd;
 }
